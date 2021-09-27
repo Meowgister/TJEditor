@@ -6,23 +6,37 @@ Overview
 TJEditor is a file editor that adds notes to a tja file. Provide a tja file in the following format with data added:
 
 TITLE:
+
 SUBTITLE:--
+
 BPM:
+
 WAVE:.ogg
+
 OFFSET:
+
 DEMOSTART:
 
+
 COURSE:
+
 LEVEL:
+
 BALLOON:
+
 SCOREINIT:
+
 SCOREDIFF:
+
 
 #START
 
+
 ,
 
+
 #END
+
 
 and so on for more courses. Up to 5 courses are supported: Edit, Oni, Hard, Normal and Easy.
 
